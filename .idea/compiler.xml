@@ -10,8 +10,5 @@
         <module name="springboot-04-data" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="springboot-04-data" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
